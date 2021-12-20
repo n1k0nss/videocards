@@ -11,6 +11,9 @@
         <div class="container">
             <ul class="nav-list">
                 <a href="./index.html"><img width="160" height="80" src="./logon1k.png" alt="logo"></a>
+                <li class="nav-list__item"><a class="nav-list__link" href="insertIntoFoundersForm.php">Вставити рядок</a><br></li>
+                <li class="nav-list__item"><a class="nav-list__link" href="updateFoundersForm.php">Змінити рядок</a><br></li>
+                <li class="nav-list__item"><a class="nav-list__link" href="deleteFromFoundersForm.php">Видалити рядок</a><br></li>
                 <li class="nav-list__item"><a class="nav-list__link" href="index.html">На головну</a><br></li>
             </ul>
         </div>
